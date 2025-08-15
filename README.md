@@ -1,53 +1,78 @@
-<h1 align="center">Hi there, I'm Omar 👋</h1>
-<h3 align="center">💻 Junior Database & Backend Engineer | Node.js • MongoDB • MySQL</h3>
+# Omar Elalfy
+
+**Junior Database & Backend Engineer** | Computer Engineering Student
+
+Passionate about building scalable backend systems and designing efficient database architectures. Currently focused on modern web technologies and API development.
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Engineering student with a strong focus on backend development and database design. I enjoy solving complex problems through clean, efficient code and am always eager to learn new technologies that can improve system performance and scalability.
+
+**Current Focus Areas:**
+- Backend API Development
+- Database Design & Optimization  
+- System Architecture
+- Performance Optimization
+
+---
+
+## 🛠️ Technical Skills
+
+**Backend Development**
+- Node.js & Express.js
+- RESTful API Design
+- Authentication & Security (JWT)
+
+**Database Technologies**
+- MongoDB (NoSQL)
+- MySQL (SQL)
+- Database Design & Optimization
+
+**Tools & Technologies**
+- Git & Version Control
+- API Testing & Documentation
+- Linux/Unix Systems
+
+---
+
+## 🚀 Featured Projects
+
+### Backend API for Vitae
+A comprehensive REST API featuring JWT authentication, full CRUD operations, and seamless MongoDB integration. Built with security and scalability in mind.
+
+### Face Recognition Application
+Real-time facial recognition system developed using Python and OpenCV, demonstrating proficiency in computer vision and machine learning applications.
+
+### Gym Tracker Application
+Flutter-based fitness tracking application with robust database storage, showcasing full-stack development capabilities.
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Coding GIF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="160"/>
 </p>
-
----
-
-## 🚀 About Me  
-- 🎓 Computer Engineering student passionate about backend systems & database design  
-- 🛠 Skilled in **Node.js**, **MongoDB**, **MySQL**, **Express.js**  
-- 🌱 Always learning more about **scalability** and **API performance optimization**  
-- ⚡ Fun fact: I love turning coffee ☕ into clean code  
-
----
-
-## 🛠 Skills  
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
----
-
-## 📂 Projects  
-
-- [**Backend API for Vitae**](#) – REST API with JWT authentication, CRUD ops, and MongoDB integration.  
-- [**Face Recognition App**](#) – Built using Python & OpenCV for real-time facial recognition.  
-- [**Gym Tracker App**](#) – Flutter-based fitness tracker with database storage.  
-
----
-
-## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-## 📬 Contact Me  
+## 📞 Contact Information
 
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+I'm always open to discussing new opportunities, collaborations, or interesting projects.
+
+**Email:** [omarelalfy2014@gmail.com](mailto:omarelalfy2014@gmail.com)  
+**Phone:** +20 106 984 4190  
+**LinkedIn:** [Omar Elalfy](https://www.linkedin.com/in/omar-elalfy-74b298287/)
+
+---
+
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
 </p>
