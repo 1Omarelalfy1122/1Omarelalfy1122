@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Omar 👋</h1>
-<h3 align="center">💻 Junior Database & Backend Engineering Student | Node.js • MongoDB • MySQL</h3>
+<h3 align="center">💻 Software Engineer | Backend Developer | Node.js · MySQL · AWS | Exploring Machine Learning</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Coding GIF"/>
