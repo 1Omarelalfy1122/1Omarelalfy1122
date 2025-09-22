@@ -11,25 +11,11 @@
 
 ## 🚀 About Me  
 
-- 🎓 **Computer Engineering Student** passionate about backend systems & applied machine learning  
+- 🎓 **Computer Engineering Student** passionate about **backend systems** & **database design**  
 - 🛠 Skilled in **Node.js**, **Express.js**, **MySQL**, **MongoDB**, and **AWS**  
-- 🤖 Exploring **Machine Learning models**: Regression, Classification & Clustering  
-- 🌱 Constantly learning about **API scalability**, **database performance**, and **ML pipelines**  
-- ⚡ Fun fact: I turn coffee ☕ into optimized queries and predictive models  
-
----
-
-## 🧠 Machine Learning Focus  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Regression-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Regression"/>
-  <img src="https://img.shields.io/badge/Classification-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Classification"/>
-  <img src="https://img.shields.io/badge/Clustering-6C63FF?style=for-the-badge&logo=python&logoColor=white" alt="Clustering"/>
-</p>
-
-- 📊 Worked on **Gender Prediction Model** (Classification)  
-- 📈 Implemented **Linear Regression** models from scratch  
-- 🔍 Built **Customer Segmentation** project using Clustering  
+- 🤖 Currently exploring **Machine Learning** with **Regression, Classification & Clustering**  
+- 🌱 Always learning about **API scalability**, **performance optimization**, and **ML workflows**  
+- ⚡ Fun fact: I turn coffee ☕ into clean queries & predictive models  
 
 ---
 
@@ -46,18 +32,21 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Projects  
 
-- [**Gender Prediction (Classification)**](#) – Predict gender from dataset using ML models  
-- [**Customer Segmentation (Clustering)**](#) – Applied K-Means for market segmentation  
-- [**Regression Models**](#) – Linear Regression implementation & prediction analysis  
+### 🔹 Backend Projects  
 - [**Backend API for Vitae**](#) – REST API with JWT authentication, CRUD ops, and MongoDB integration  
 - [**Face Recognition App**](#) – Real-time face recognition using Python & OpenCV  
+- [**Gym Tracker App**](#) – Flutter-based fitness tracker with database storage  
+
+### 🔹 Machine Learning Projects  
+- [**Gender Prediction (Classification)**](#) – Built ML model to predict gender from dataset  
+- [**Customer Segmentation (Clustering)**](#) – Applied K-Means for business insights  
+- [**Regression Models**](#) – Linear Regression from scratch for predictive analysis  
 
 ---
 
