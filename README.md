@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Omar 👋</h1>
-<h3 align="center">💻 Software Engineer | Backend Developer | Node.js · MySQL · AWS | Exploring Machine Learning</h3>
+<h3 align="center">💻 Software Engineer | Backend & AI Systems Engineer | Node.js · MySQL · AWS · LLM Apps</h3>
 
 ---
 
@@ -11,11 +11,11 @@
 
 ## 🚀 About Me  
 
-- 🎓 **Computer Engineering Student** passionate about **backend systems** & **database design**  
-- 🛠 Skilled in **Node.js**, **Express.js**, **MySQL**, **MongoDB**, and **AWS**  
-- 🤖 Currently exploring **Machine Learning** with **Regression, Classification & Clustering**  
-- 🌱 Always learning about **API scalability**, **performance optimization**, and **ML workflows**  
-- ⚡ Fun fact: I turn coffee ☕ into clean queries & predictive models  
+- 🎓 Computer Engineering student focused on **backend systems** and **AI-powered applications**  
+- 🛠 Strong experience with **Node.js**, **Express.js**, **MySQL**, **MongoDB**, and **AWS**  
+- 🤖 Building modern AI systems including **RAG pipelines** and exploring **Agentic AI workflows**  
+- 🧠 Comfortable working across **backend architecture, APIs, and AI integration layers**  
+- ⚡ Interested in scalable systems, LLM applications, and production-ready AI products  
 
 ---
 
@@ -32,21 +32,35 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ---
 
 ## 📂 Projects  
 
-### 🔹 Backend Projects  
-- [**Backend API for Vitae**](#) – REST API with JWT authentication, CRUD ops, and MongoDB integration  
-- [**Face Recognition App**](#) – Real-time face recognition using Python & OpenCV  
-- [**Gym Tracker App**](#) – Flutter-based fitness tracker with database storage  
+### 🔹 Backend Systems  
+- **Vitae Backend API** – Scalable REST API with authentication, booking system, and MySQL schema design  
+- **Authentication System (Node.js)** – JWT-based secure login/signup system with role handling  
+- **Real-time App Backend** – APIs for chat, booking, and user management with structured architecture  
 
-### 🔹 Machine Learning Projects  
-- [**Gender Prediction (Classification)**](#) – Built ML model to predict gender from dataset  
-- [**Customer Segmentation (Clustering)**](#) – Applied K-Means for business insights  
-- [**Regression Models**](#) – Linear Regression from scratch for predictive analysis  
+### 🔹 AI / LLM Projects  
+- **RAG System (Retrieval-Augmented Generation)** – Built a pipeline combining embeddings + vector search + LLM responses  
+- **AI Agent System (In Progress)** – Exploring tool-using agents with memory and multi-step reasoning  
+- **ML Projects** – Regression, classification, clustering models applied to real datasets  
+
+### 🔹 Other Projects  
+- **Face Recognition System** – OpenCV + Python-based real-time recognition  
+- **Flutter Mobile Apps** – Full-stack mobile apps with backend integration  
+
+---
+
+## 🧠 What I’m Focused On  
+
+- LLM application engineering (RAG, agents, tool calling)  
+- Backend scalability and system design  
+- Production AI systems (not just models, but real apps)  
+- Moving toward **AI Engineer / Backend + AI Engineer roles**
 
 ---
 
